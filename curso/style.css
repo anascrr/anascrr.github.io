@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-
 body {
     min-height: 100vh;
     display: flex;
@@ -15,7 +14,6 @@ header {
     background: #777;
     color: white;
     padding: 15px;
-
 }
 
 h1 {
@@ -36,7 +34,6 @@ nav {
 nav ul {
     list-style-type: none;
     padding: 0;
-
 }
 
 nav li {
@@ -69,5 +66,4 @@ footer {
 
 #principal h2 {
     margin-top: 0;
-
 }
