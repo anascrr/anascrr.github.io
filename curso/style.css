@@ -50,6 +50,10 @@ nav a {
     padding: 5px;
 }
 
+nav li:hover {
+    background: #a7a7a7;
+}
+
 footer {
     width: 100%;
     background: #777;
