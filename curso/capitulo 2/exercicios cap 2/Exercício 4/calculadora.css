@@ -100,3 +100,7 @@ body {
     border: 1px solid #dadee1;
     grid-column: span 2;
 }
+
+.voltar {
+    padding: 50px;
+}
